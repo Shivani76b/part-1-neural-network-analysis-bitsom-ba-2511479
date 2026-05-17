@@ -1,5 +1,11 @@
 # Part 1: Neural Network Fundamentals and Training Behavior Analysis
 
+## Dataset Source
+The dataset used in this project is available at:
+https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
+Note: Dataset files are not included in this repository as per submission guidelines.
+
 ## Dataset
 Customer Churn Prediction dataset with 2000 rows and 17 columns.
 
